@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-3D-Scene-Reconstruction-Computer-Vision/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-3D-Scene-Reconstruction-Computer-Vision?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-3D-Scene-Reconstruction-Computer-Vision/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-3D-Scene-Reconstruction-Computer-Vision?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-3D-Scene-Reconstruction-Computer-Vision/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-3D-Scene-Reconstruction-Computer-Vision?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -84,101 +84,101 @@ The technological frontier is currently defined by a paradigm shift: traditional
 
 ## 🚀 Top Open-Source GitHub Projects (Ranked by Stars)
 
-*Every repository includes a live GitHub star badge (with `style=social` and `color=white`) linking directly to its GitHub stargazers page. Sorted strictly by star count in descending order.*
+*Every repository includes a live GitHub Stars_Badge (with `style=social` and `color=white`) linking directly to its GitHub stargazers page. Sorted strictly by Stars_Count in descending order.*
 
-1. **[graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting)** [![GitHub Stars](https://img.shields.io/github/stars/graphdeco-inria/gaussian-splatting?style=social&color=white)](https://github.com/graphdeco-inria/gaussian-splatting/stargazers)  
+1. **[graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting)** [![GitHub_Stars](https://img.shields.io/github/stars/graphdeco-inria/gaussian-splatting?style=social&color=white)](https://github.com/graphdeco-inria/gaussian-splatting/stargazers)  
    *Reference SIGGRAPH 2023 CUDA implementation for real-time 3D scene reconstruction and radiance field rendering using 3D Gaussian Splatting.*  
    `License: Custom Research / Inria` • `Domain: 3DGS, Radiance Fields`
 
-2. **[NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp)** [![GitHub Stars](https://img.shields.io/github/stars/NVlabs/instant-ngp?style=social&color=white)](https://github.com/NVlabs/instant-ngp/stargazers)  
+2. **[NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp)** [![GitHub_Stars](https://img.shields.io/github/stars/NVlabs/instant-ngp?style=social&color=white)](https://github.com/NVlabs/instant-ngp/stargazers)  
    *NVIDIA's breakthrough multiresolution hash-encoding framework for instant neural radiance fields (NeRF), gigapixel images, and signed distance functions (SDF).*  
    `License: Custom NVIDIA Research` • `Domain: NeRF, Instant Training`
 
-3. **[facebookresearch/vggt](https://github.com/facebookresearch/vggt)** [![GitHub Stars](https://img.shields.io/github/stars/facebookresearch/vggt?style=social&color=white)](https://github.com/facebookresearch/vggt/stargazers)  
+3. **[facebookresearch/vggt](https://github.com/facebookresearch/vggt)** [![GitHub_Stars](https://img.shields.io/github/stars/facebookresearch/vggt?style=social&color=white)](https://github.com/facebookresearch/vggt/stargazers)  
    *CVPR 2025 Best Paper. Meta AI's Visual Geometry Grounded Transformer directly inferring camera poses, depth maps, dense pointmaps, and 3D point tracks from 1 to 100+ uncalibrated views in seconds.*  
    `License: CC-BY-NC 4.0` • `Domain: Foundation Geometry Transformer`
 
-4. **[isl-org/Open3D](https://github.com/isl-org/Open3D)** [![GitHub Stars](https://img.shields.io/github/stars/isl-org/Open3D?style=social&color=white)](https://github.com/isl-org/Open3D/stargazers)  
+4. **[isl-org/Open3D](https://github.com/isl-org/Open3D)** [![GitHub_Stars](https://img.shields.io/github/stars/isl-org/Open3D?style=social&color=white)](https://github.com/isl-org/Open3D/stargazers)  
    *Comprehensive open-source C++ and Python library for 3D data processing, RGB-D odometry, TSDF volumetric integration, point cloud registration, and Poisson surface reconstruction.*  
    `License: MIT` • `Domain: 3D Point Cloud & Mesh Library`
 
-5. **[colmap/colmap](https://github.com/colmap/colmap)** [![GitHub Stars](https://img.shields.io/github/stars/colmap/colmap?style=social&color=white)](https://github.com/colmap/colmap/stargazers)  
+5. **[colmap/colmap](https://github.com/colmap/colmap)** [![GitHub_Stars](https://img.shields.io/github/stars/colmap/colmap?style=social&color=white)](https://github.com/colmap/colmap/stargazers)  
    *Industry-standard general-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline powering camera registration across photogrammetry and NeRF/3DGS research.*  
    `License: BSD-3-Clause` • `Domain: SfM / MVS Reconstruction`
 
-6. **[alicevision/meshroom](https://github.com/alicevision/meshroom)** [![GitHub Stars](https://img.shields.io/github/stars/alicevision/meshroom)](https://github.com/alicevision/meshroom/stargazers) [![GitHub Stars](https://img.shields.io/github/stars/alicevision/meshroom?style=social&color=white)](https://github.com/alicevision/meshroom/stargazers)  
+6. **[alicevision/meshroom](https://github.com/alicevision/meshroom)** [![GitHub_Stars](https://img.shields.io/github/stars/alicevision/meshroom)](https://github.com/alicevision/meshroom/stargazers) [![GitHub_Stars](https://img.shields.io/github/stars/alicevision/meshroom?style=social&color=white)](https://github.com/alicevision/meshroom/stargazers)  
    *Full-featured node-based visual photogrammetry workbench built on the AliceVision computer vision framework for end-to-end photo-to-textured-mesh reconstruction.*  
    `License: MPL-2.0` • `Domain: Node-based Photogrammetry`
 
-7. **[nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio)** [![GitHub Stars](https://img.shields.io/github/stars/nerfstudio-project/nerfstudio?style=social&color=white)](https://github.com/nerfstudio-project/nerfstudio/stargazers)  
+7. **[nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio)** [![GitHub_Stars](https://img.shields.io/github/stars/nerfstudio-project/nerfstudio?style=social&color=white)](https://github.com/nerfstudio-project/nerfstudio/stargazers)  
    *Modular, production-ready PyTorch framework unifying 3D Gaussian Splatting (`splatfacto`), NeRFs (`nerfacto`), COLMAP integration, and an interactive real-time web visualizer.*  
    `License: Apache-2.0` • `Domain: NeRF & 3DGS Framework`
 
-8. **[DepthAnything/Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2)** [![GitHub Stars](https://img.shields.io/github/stars/DepthAnything/Depth-Anything-V2?style=social&color=white)](https://github.com/DepthAnything/Depth-Anything-V2/stargazers)  
+8. **[DepthAnything/Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2)** [![GitHub_Stars](https://img.shields.io/github/stars/DepthAnything/Depth-Anything-V2?style=social&color=white)](https://github.com/DepthAnything/Depth-Anything-V2/stargazers)  
    *State-of-the-art monocular depth estimation foundation model producing ultra-detailed, metric-aligned depth maps for monocular 3D scene lifting and video reconstruction.*  
    `License: Apache-2.0` • `Domain: Monocular Depth Foundation`
 
-9. **[naver/dust3r](https://github.com/naver/dust3r)** [![GitHub Stars](https://img.shields.io/github/stars/naver/dust3r?style=social&color=white)](https://github.com/naver/dust3r/stargazers)  
+9. **[naver/dust3r](https://github.com/naver/dust3r)** [![GitHub_Stars](https://img.shields.io/github/stars/naver/dust3r?style=social&color=white)](https://github.com/naver/dust3r/stargazers)  
    *Geometric 3D vision breakthrough from NAVER Labs Europe reconstructing metric 3D pointmaps and pixel correspondences from uncalibrated image pairs without camera intrinsics or prior SfM.*  
    `License: CC-BY-NC-SA 4.0` • `Domain: Feed-Forward Dense 3D Pointmaps`
 
-10. **[OpenDroneMap/ODM](https://github.com/OpenDroneMap/ODM)** [![GitHub Stars](https://img.shields.io/github/stars/OpenDroneMap/ODM?style=social&color=white)](https://github.com/OpenDroneMap/ODM/stargazers)  
+10. **[OpenDroneMap/ODM](https://github.com/OpenDroneMap/ODM)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenDroneMap/ODM?style=social&color=white)](https://github.com/OpenDroneMap/ODM/stargazers)  
     *Production-grade drone and aerial mapping engine generating georeferenced orthophotos, digital surface models (DSM/DEM), dense point clouds, and 3D textured meshes via CLI and WebODM.*  
     `License: AGPL-3.0` • `Domain: Aerial & Drone Photogrammetry`
 
-11. **[openMVG/openMVG](https://github.com/openMVG/openMVG)** [![GitHub Stars](https://img.shields.io/github/stars/openMVG/openMVG?style=social&color=white)](https://github.com/openMVG/openMVG/stargazers)  
+11. **[openMVG/openMVG](https://github.com/openMVG/openMVG)** [![GitHub_Stars](https://img.shields.io/github/stars/openMVG/openMVG?style=social&color=white)](https://github.com/openMVG/openMVG/stargazers)  
     *Modular C++ computer vision library specializing in robust multiple view geometry, epipolar geometry solvers, and global/incremental Structure-from-Motion.*  
     `License: MPL-2.0` • `Domain: Multiple View Geometry / SfM`
 
-12. **[cnr-isti-vclab/meshlab](https://github.com/cnr-isti-vclab/meshlab)** [![GitHub Stars](https://img.shields.io/github/stars/cnr-isti-vclab/meshlab?style=social&color=white)](https://github.com/cnr-isti-vclab/meshlab/stargazers)  
+12. **[cnr-isti-vclab/meshlab](https://github.com/cnr-isti-vclab/meshlab)** [![GitHub_Stars](https://img.shields.io/github/stars/cnr-isti-vclab/meshlab?style=social&color=white)](https://github.com/cnr-isti-vclab/meshlab/stargazers)  
     *Widely deployed open-source system for processing, cleaning, filtering, remeshing, inspecting, rendering, and converting large unstructured 3D triangular meshes and point clouds.*  
     `License: GPL-3.0` • `Domain: Mesh Processing & Filtering`
 
-13. **[nerfstudio-project/gsplat](https://github.com/nerfstudio-project/gsplat)** [![GitHub Stars](https://img.shields.io/github/stars/nerfstudio-project/gsplat?style=social&color=white)](https://github.com/nerfstudio-project/gsplat/stargazers)  
+13. **[nerfstudio-project/gsplat](https://github.com/nerfstudio-project/gsplat)** [![GitHub_Stars](https://img.shields.io/github/stars/nerfstudio-project/gsplat?style=social&color=white)](https://github.com/nerfstudio-project/gsplat/stargazers)  
     *High-performance CUDA/C++ library with PyTorch bindings for real-time 3D Gaussian Splatting rasterization, featuring fast forward/backward passes and memory-efficient training.*  
     `License: Apache-2.0` • `Domain: 3DGS Rasterization Core`
 
-14. **[apple/ml-depth-pro](https://github.com/apple/ml-depth-pro)** [![GitHub Stars](https://img.shields.io/github/stars/apple/ml-depth-pro?style=social&color=white)](https://github.com/apple/ml-depth-pro/stargazers)  
+14. **[apple/ml-depth-pro](https://github.com/apple/ml-depth-pro)** [![GitHub_Stars](https://img.shields.io/github/stars/apple/ml-depth-pro?style=social&color=white)](https://github.com/apple/ml-depth-pro/stargazers)  
     *Apple's zero-shot metric monocular depth estimation foundation model generating high-resolution depth maps and focal lengths from single arbitrary images in under 1 second.*  
     `License: Apple Sample Code / Non-Commercial` • `Domain: Zero-shot Metric Depth`
 
-15. **[CloudCompare/CloudCompare](https://github.com/CloudCompare/CloudCompare)** [![GitHub Stars](https://img.shields.io/github/stars/CloudCompare/CloudCompare?style=social&color=white)](https://github.com/CloudCompare/CloudCompare/stargazers)  
+15. **[CloudCompare/CloudCompare](https://github.com/CloudCompare/CloudCompare)** [![GitHub_Stars](https://img.shields.io/github/stars/CloudCompare/CloudCompare?style=social&color=white)](https://github.com/CloudCompare/CloudCompare/stargazers)  
     *Industry-standard 3D point cloud processing software featuring advanced ICP alignment, cloud-to-cloud/cloud-to-mesh geometric comparison, registration, and segmentation.*  
     `License: GPL-2.0` • `Domain: Point Cloud Registration & Inspection`
 
-16. **[cdcseacave/openMVS](https://github.com/cdcseacave/openMVS)** [![GitHub Stars](https://img.shields.io/github/stars/cdcseacave/openMVS?style=social&color=white)](https://github.com/cdcseacave/openMVS/stargazers)  
+16. **[cdcseacave/openMVS](https://github.com/cdcseacave/openMVS)** [![GitHub_Stars](https://img.shields.io/github/stars/cdcseacave/openMVS?style=social&color=white)](https://github.com/cdcseacave/openMVS/stargazers)  
     *Complete Multi-View Stereo library taking calibrated camera poses (from COLMAP/OpenMVG) and executing dense point-cloud generation, mesh reconstruction, mesh refinement, and texture baking.*  
     `License: AGPL-3.0` • `Domain: Dense MVS & Texture Mesh`
 
-17. **[introlab/rtabmap](https://github.com/introlab/rtabmap)** [![GitHub Stars](https://img.shields.io/github/stars/introlab/rtabmap?style=social&color=white)](https://github.com/introlab/rtabmap/stargazers)  
+17. **[introlab/rtabmap](https://github.com/introlab/rtabmap)** [![GitHub_Stars](https://img.shields.io/github/stars/introlab/rtabmap?style=social&color=white)](https://github.com/introlab/rtabmap/stargazers)  
     *Real-Time Appearance-Based 3D Mapping RGB-D, Stereo and LiDAR Graph-Based SLAM engine with memory management for large-scale long-term online 3D spatial mapping.*  
     `License: BSD-3-Clause` • `Domain: RGB-D / LiDAR SLAM`
 
-18. **[hbb1/2d-gaussian-splatting](https://github.com/hbb1/2d-gaussian-splatting)** [![GitHub Stars](https://img.shields.io/github/stars/hbb1/2d-gaussian-splatting?style=social&color=white)](https://github.com/hbb1/2d-gaussian-splatting/stargazers)  
+18. **[hbb1/2d-gaussian-splatting](https://github.com/hbb1/2d-gaussian-splatting)** [![GitHub_Stars](https://img.shields.io/github/stars/hbb1/2d-gaussian-splatting?style=social&color=white)](https://github.com/hbb1/2d-gaussian-splatting/stargazers)  
     *SIGGRAPH 2024 surface reconstruction method utilizing 2D planar Gaussian disks to deliver accurate, watertight geometric surface extraction and high-fidelity rendering.*  
     `License: MIT` • `Domain: 2D Gaussian Surface Reconstruction`
 
-19. **[naver/mast3r](https://github.com/naver/mast3r)** [![GitHub Stars](https://img.shields.io/github/stars/naver/mast3r?style=social&color=white)](https://github.com/naver/mast3r/stargazers)  
+19. **[naver/mast3r](https://github.com/naver/mast3r)** [![GitHub_Stars](https://img.shields.io/github/stars/naver/mast3r?style=social&color=white)](https://github.com/naver/mast3r/stargazers)  
     *Matching and Stereo 3D Reconstruction model building upon DUSt3R to produce dense local feature tracks, robust pairwise matching, and fast metric camera pose estimation.*  
     `License: CC-BY-NC-SA 4.0` • `Domain: Dense Feature Matching & Geometry`
 
-20. **[colmap/glomap](https://github.com/colmap/glomap)** [![GitHub Stars](https://img.shields.io/github/stars/colmap/glomap?style=social&color=white)](https://github.com/colmap/glomap/stargazers)  
+20. **[colmap/glomap](https://github.com/colmap/glomap)** [![GitHub_Stars](https://img.shields.io/github/stars/colmap/glomap?style=social&color=white)](https://github.com/colmap/glomap/stargazers)  
     *ECCV 2024 global Structure-from-Motion mapper integrated with COLMAP that solves camera positions and orientations simultaneously, running orders of magnitude faster than incremental SfM.*  
     `License: BSD-3-Clause` • `Domain: Global Structure-from-Motion`
 
-21. **[spla-tam/SplaTAM](https://github.com/spla-tam/SplaTAM)** [![GitHub Stars](https://img.shields.io/github/stars/spla-tam/SplaTAM?style=social&color=white)](https://github.com/spla-tam/SplaTAM/stargazers)  
+21. **[spla-tam/SplaTAM](https://github.com/spla-tam/SplaTAM)** [![GitHub_Stars](https://img.shields.io/github/stars/spla-tam/SplaTAM?style=social&color=white)](https://github.com/spla-tam/SplaTAM/stargazers)  
     *CVPR 2024 dense RGB-D SLAM system employing 3D Gaussian Splatting as the sole scene representation for high-fidelity real-time camera tracking and volumetric radiance mapping.*  
     `License: MIT` • `Domain: Gaussian Splatting SLAM`
 
-22. **[muskie82/MonoGS](https://github.com/muskie82/MonoGS)** [![GitHub Stars](https://img.shields.io/github/stars/muskie82/MonoGS?style=social&color=white)](https://github.com/muskie82/MonoGS/stargazers)  
+22. **[muskie82/MonoGS](https://github.com/muskie82/MonoGS)** [![GitHub_Stars](https://img.shields.io/github/stars/muskie82/MonoGS?style=social&color=white)](https://github.com/muskie82/MonoGS/stargazers)  
     *3D Gaussian Splatting SLAM from a single monocular camera feed, achieving real-time scene representation, pose tracking, and progressive reconstruction.*  
     `License: MIT` • `Domain: Monocular 3DGS SLAM`
 
-23. **[Totoro97/NeuS](https://github.com/Totoro97/NeuS)** [![GitHub Stars](https://img.shields.io/github/stars/Totoro97/NeuS?style=social&color=white)](https://github.com/Totoro97/NeuS/stargazers)  
+23. **[Totoro97/NeuS](https://github.com/Totoro97/NeuS)** [![GitHub_Stars](https://img.shields.io/github/stars/Totoro97/NeuS?style=social&color=white)](https://github.com/Totoro97/NeuS/stargazers)  
     *Seminal NeurIPS paper for Neural Implicit Surface Reconstruction using Signed Distance Functions (SDF) with volume rendering, extracting high-quality smooth geometric meshes.*  
     `License: MIT` • `Domain: Neural Implicit Surface Reconstruction`
 
-24. **[apekshik/anyscene](https://github.com/apekshik/anyscene)** [![GitHub Stars](https://img.shields.io/github/stars/apekshik/anyscene?style=social&color=white)](https://github.com/apekshik/anyscene/stargazers)  
+24. **[apekshik/anyscene](https://github.com/apekshik/anyscene)** [![GitHub_Stars](https://img.shields.io/github/stars/apekshik/anyscene?style=social&color=white)](https://github.com/apekshik/anyscene/stargazers)  
     *Feed-forward monocular 3D scene reconstruction pipeline combining Depth Anything V2 with MASt3R dense camera matching to reconstruct colored point clouds (PLY, GLB) from arbitrary images or video.*  
     `License: MIT` • `Domain: Monocular Feed-Forward 3D Pipeline`
 
