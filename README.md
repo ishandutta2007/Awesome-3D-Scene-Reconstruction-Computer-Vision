@@ -30,77 +30,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saashosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global 3D reconstruction and computer vision spatial mapping sector is valued at approximately $1.6B–$1.9B (projected to reach over $3.2B by the early 2030s at an 11–17% CAGR). The market is moderately to highly fragmented across vertical niches (BIM/digital twins, aerial drone surveying, industrial metrology, gaming, and consumer spatial AI) rather than a winner-take-all monopoly, characterized by competing active sensor and passive neural vision paradigms (SfM/MVS, NeRF, and 3D Gaussian Splatting) alongside frequent targeted acquisitions by larger infrastructure and gaming giants.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Luma AI](https://lumalabs.ai)**  
-
-  Cloud AI 3D capture and radiance field platform converting smartphone videos into photorealistic 3D Gaussian Splats, textured meshes, and embeddable WebGL scenes.
-
-
-
-- **[Polycam](https://poly.cam)**  
-
-  Cross-platform mobile and web 3D scanning suite supporting cloud photogrammetry, LiDAR capture, 3D Gaussian Splatting, and browser-native sharing.
-
-
-
-- **[Niantic Scaniverse](https://scaniverse.com)**  
-
-  Mobile spatial scanning app offering on-device 3D Gaussian Splatting and dense mesh reconstruction for geospatial world mapping and offline editing.
-
-
-
-- **[KIRI Engine](https://kiriengine.app)**  
-
-  Cloud 3D scanning and Gaussian Splatting platform providing photo-to-3D reconstruction, feature-less object scanning, quad-retopology, and Blender integration.
-
-
-
-- **[Epic Games RealityCapture (Capturing Reality)](https://capturingreality.com)**  
-
-  Industry-standard photogrammetry and laser-scanning reconstruction software capable of generating ultra-high-resolution textured 3D meshes and ortho-projections.
-
-
-
-- **[Agisoft Metashape & Metashape Cloud](https://agisoft.com)**  
-
-  Commercial photogrammetric processing pipeline and cloud service producing dense point clouds, textured 3D models, and georeferenced digital elevation models.
-
-
-
-- **[Matterport](https://matterport.com)**  
-
-  Enterprise cloud spatial data and digital twin platform transforming 360-degree cameras, LiDAR scanners, and smartphones into navigable 3D virtual tours and BIM files.
-
-
-
-- **[Artec Cloud](https://artec3d.com)**  
-
-  Cloud-based 3D scan processing, point-cloud registration, mesh reconstruction, and collaborative inspection platform built for precision 3D scanners.
-
-
-
-- **[Pix4Dcloud](https://pix4d.com)**  
-
-  Cloud photogrammetry and drone mapping SaaS platform converting aerial and terrestrial imagery into measurable 3D meshes, point clouds, and CAD overlays.
-
-
-
-- **[DroneDeploy](https://dronedeploy.com)**  
-
-  Cloud reality-capture and site intelligence platform automating drone and 360-camera 3D scene reconstruction for construction, energy, and surveying.
+| Company / Platform | Company Scale (Valuation / Revenue) | Description | Pricing | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Epic Games RealityCapture](https://capturingreality.com)** | **$22.5B Valuation** (~$5B+ annual revenue) | Industry-standard photogrammetry & laser-scanning reconstruction software producing ultra-high-resolution textured 3D meshes and ortho-projections. | Free for revenue <$1M/yr; **$1,250/seat/year** for enterprise (or $1,850/yr Unreal bundle) | **Free forever** for all individuals, students, educators, and businesses with gross annual revenue under $1,000,000 USD (full features). |
+| **[Niantic Scaniverse](https://scaniverse.com)** | **$3.5B Unit Valuation** (historic $9B valuation, ~$650M–$700M peak revenue) | Mobile spatial capture app offering fast on-device 3D Gaussian Splatting, LiDAR scanning, and cloud rendering for geospatial world mapping. | Paid cloud plans start at **$20/month** (Plus, or $200/yr) up to $50/mo (Pro) | **Free forever** for unlimited on-device captures, Gaussian splat processing, and mesh exports (SPZ, FBX, PLY); includes 20,000 free monthly cloud credits. |
+| **[Luma AI](https://lumalabs.ai)** | **$4.0B Valuation** (~$900M Series C, tens of millions ARR) | Cloud AI 3D capture and radiance field platform converting mobile video into photorealistic 3D Gaussian Splats, textured meshes, and interactive WebGL scenes. | Paid subscription plans start at **$30/month** (Plus, or $25/mo billed annually) | **Free forever** basic tier with limited daily regeneration credits (~30 video/capture generations, non-commercial/watermarked). |
+| **[Matterport](https://matterport.com)** | **$1.6B Valuation / Mkt Cap** (Nasdaq: MTTR, ~$170M annual revenue) | Enterprise spatial data and digital twin SaaS transforming 360 cameras, LiDAR scanners, and smartphones into navigable 3D virtual tours and BIM files. | Paid self-serve plans start at **$108/month** (Professional tier, or $90/mo billed annually) | **Free forever** plan limited to 1 active space/digital twin at a time, 1 user, smartphone/360-camera capture only (no Matterport Pro cameras). |
+| **[DroneDeploy](https://dronedeploy.com)** | **$845M Acquisition Valuation** (Acquired by Procore; ~$78M annual revenue) | Enterprise drone reality capture and site intelligence platform automating aerial and 360-camera 3D reconstruction for construction and surveying. | Paid self-serve plans start at **$159/month** (Ag-Lite, billed annually) or $329/mo (Individual) | **14-day free trial** with full platform exploration, flight planning, and 2D/3D map generation capabilities (no credit card required). |
+| **[Pix4Dcloud](https://pix4d.com)** | **$25M Valuation** (~$14M–$30M annual revenue) | Cloud photogrammetry and drone mapping SaaS converting aerial/terrestrial imagery into measurable 3D meshes, point clouds, and CAD overlays. | Paid plans start at **$129/month** (Pix4Dcloud Starter, or $107.50/mo billed annually); Pro at $449/mo | **15-day free trial** with full PIX4Dcloud Pro features, including an allocation of 40 processing credits (~200 images at 20 MP; trial data expires after 30 days). |
+| **[Artec Cloud](https://artec3d.com)** | **$25M–$30M Annual Revenue** (Privately held, backed by European Investment Bank) | Cloud 3D scan processing, point-cloud registration, mesh reconstruction, and collaborative browser inspection for precision industrial 3D scanners. | Paid storage tiers start at **$70/month** (200 GB, or $59/mo billed annually) | **Free forever** entry plan providing 5 GB of cloud storage for viewing, commenting, and project backup. |
+| **[Polycam](https://poly.cam)** | **$6.5M Annual Revenue** (Venture-backed Series A) | Cross-platform mobile and web 3D scanning suite supporting cloud photogrammetry, LiDAR capture, 3D Gaussian Splatting, and browser-native sharing. | Paid plans start at **$30/month** (Polycam Basic, or ~$150/year billed annually); Business from $25/seat/mo | **Free forever** plan for basic mobile capture and viewing; advanced CAD/BIM/point-cloud exports and unlimited splat processing require paid tiers. |
+| **[Agisoft Metashape Cloud](https://agisoft.com)** | **$3M–$4M Annual Revenue** (Privately held / bootstrapped) | Cloud photogrammetric processing pipeline and storage backend for Metashape Professional producing dense point clouds and georeferenced DEMs. | Commercial storage starts at **$10/month** for 100 GB (plus pay-per-use processing at $4.25/compute hour) | **Free plan** providing 50 GB cloud storage and 20 compute hours per month renewed monthly (available for trial, Metashape Pro trial, and educational users). |
+| **[KIRI Engine](https://kiriengine.app)** | **Bootstrap / Seed Stage** (<$3M estimated revenue) | Cloud 3D scanning and Gaussian Splatting app offering photo-to-3D reconstruction, featureless object scanning, quad-retopology, and Blender integration. | Pro subscription starts at **$79.99/year** (~$6.66/month equivalent) or $17.99 month-to-month | **Free forever** plan with unlimited free exports (OBJ, FBX, STL, GLB/GLTF, USDZ) and unlimited LiDAR scans, capped at 150 photos (2 GB) per photogrammetry scan. |
 
 
 
