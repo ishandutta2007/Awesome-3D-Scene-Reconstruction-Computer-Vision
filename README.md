@@ -1,48 +1,73 @@
-# Awesome-3D-Scene-Reconstruction-Computer-Vision
+<div align="center">
 
-## Top 3D Scene Reconstruction & Computer Vision Ecosystem
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome 3D Scene Reconstruction &amp; Computer Vision Banner" width="100%" />
+</p>
 
+# 🌐 Awesome 3D Scene Reconstruction & Computer Vision
 
+<p align="center">
+  <strong>Curated Directory of Industry-Leading SaaS Platforms &amp; Open-Source Repositories</strong><br>
+  <em>Structure-from-Motion (SfM) • Multi-View Stereo (MVS) • 3D Gaussian Splatting (3DGS) • Neural Radiance Fields (NeRF) • Foundation 3D Models</em>
+</p>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-3D-Scene-Reconstruction-Computer-Vision/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-3D-Scene-Reconstruction-Computer-Vision?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-3D-Scene-Reconstruction-Computer-Vision/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-3D-Scene-Reconstruction-Computer-Vision?style=social" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-*Focused on Photogrammetry, Structure-from-Motion (SfM), Multi-View Stereo (MVS), Neural Radiance Fields (NeRF/3DGS) & Foundation 3D Reconstruction*  
+<p align="center">
+  <strong>Updated: November 2026</strong> • Contributions &amp; Submissions Welcome ✨
+</p>
 
-**Last updated: November 2026**
+---
 
+</div>
 
+## 📖 Overview & Ecosystem Scope
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **3D Scene Reconstruction & Computer Vision**. These tools reconstruct metric 3D scenes, dense point clouds, textured meshes, and real-time radiance fields from uncalibrated photographs, video streams, or LiDAR sensors.
+Welcome to **Awesome 3D Scene Reconstruction & Computer Vision** — a comprehensive, SEO-optimized directory tracking the most potent **commercial SaaS platforms** and **open-source GitHub repositories** powering 3D scene capture, spatial computing, and digital twin reconstruction.
 
+From classical multi-view geometry (Structure-from-Motion, Multi-View Stereo, point cloud meshing) to modern neural representations (**3D Gaussian Splatting**, **NeRF**, and **foundation feed-forward geometry models** like VGGT and DUSt3R), these tools enable engineers, researchers, and creators to convert uncalibrated photographs, drone flights, LiDAR scans, or casual mobile videos into metric 3D assets, navigable virtual scenes, and interactive WebGL environments.
 
+---
 
-**Examples** include Luma AI, Polycam, Scaniverse, KIRI Engine, RealityCapture (Capturing Reality), Agisoft Metashape, Matterport, Artec Cloud, Nerfstudio, and apekshik/anyscene (the category leaders). 
+## 📑 Table of Contents
 
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS & Commercial Hosted Platforms](#️-saas--commercial-hosted-platforms)
+- [🚀 Top Open-Source GitHub Projects (Ranked by Stars)](#-top-open-source-github-projects-ranked-by-stars)
+- [🛠️ Recommended System Architecture Pipeline](#️-recommended-system-architecture-pipeline)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Community](#-support--community)
+- [⭐ Star History](#-star-history)
+- [⚠️ Disclaimer](#️-disclaimer)
 
+---
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for Structure-from-Motion (SfM), Multi-View Stereo (MVS), feed-forward visual geometry foundation models (`VGGT`, `DUSt3R`, `MASt3R`), 3D Gaussian Splatting, and real-time dense SLAM — ideal for computer vision engineers, VFX artists, digital twin builders, and robotics researchers building transparent pipelines.
+## 📊 Sector Overview & Market Dynamics
 
+The global **3D reconstruction and computer vision spatial mapping sector** is estimated at **$1.6B–$1.9B**, projected to surpass **$3.2B by the early 2030s** at a **11%–17% CAGR**. 
 
+Rather than a "winner-take-all" monopoly, the sector exhibits **moderate to high market fragmentation** across distinct vertical domains:
+- 🏗️ **Architecture, Engineering & BIM / Digital Twins** (Matterport, Procore/DroneDeploy)
+- 🛰️ **Geospatial & Drone Aerial Surveying** (Pix4Dcloud, Agisoft Metashape, OpenDroneMap)
+- 🔬 **High-Precision Industrial Metrology & CAD Inspection** (Artec 3D, MeshLab, CloudCompare)
+- 🎮 **VFX, Gaming & Virtual Production** (Epic Games RealityCapture, Unreal Engine)
+- 📱 **Mobile Spatial AI & Radiance Fields** (Niantic Scaniverse, Luma AI, Polycam, KIRI Engine)
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+The technological frontier is currently defined by a paradigm shift: traditional, compute-heavy iterative optimization (SfM + MVS) is being augmented or replaced by real-time neural radiance fields (**3DGS / NeRF**) and ultra-fast **feed-forward visual geometry transformers** (`VGGT`, `DUSt3R`, `MASt3R`).
 
+---
 
+## ☁️ SaaS & Commercial Hosted Platforms
 
-## Table of Contents
+*Ranked by Company Scale (Valuation / Revenue, Descending).*
 
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saashosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## Sector Overview & Market Dynamics
-
-The global 3D reconstruction and computer vision spatial mapping sector is valued at approximately $1.6B–$1.9B (projected to reach over $3.2B by the early 2030s at an 11–17% CAGR). The market is moderately to highly fragmented across vertical niches (BIM/digital twins, aerial drone surveying, industrial metrology, gaming, and consumer spatial AI) rather than a winner-take-all monopoly, characterized by competing active sensor and passive neural vision paradigms (SfM/MVS, NeRF, and 3D Gaussian Splatting) alongside frequent targeted acquisitions by larger infrastructure and gaming giants.
-
-## SaaS/Hosted Platforms
-
-| Company / Platform | Company Scale (Valuation / Revenue) | Description | Pricing | Free Tier / Free Trial Limits |
+| Platform 🏢 | Company Scale 📈 | Description 📝 | Pricing 💳 | Free Tier / Free Trial Limits 🎁 |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Epic Games RealityCapture](https://capturingreality.com)** | **$22.5B Valuation** (~$5B+ annual revenue) | Industry-standard photogrammetry & laser-scanning reconstruction software producing ultra-high-resolution textured 3D meshes and ortho-projections. | Free for revenue <$1M/yr; **$1,250/seat/year** for enterprise (or $1,850/yr Unreal bundle) | **Free forever** for all individuals, students, educators, and businesses with gross annual revenue under $1,000,000 USD (full features). |
 | **[Niantic Scaniverse](https://scaniverse.com)** | **$3.5B Unit Valuation** (historic $9B valuation, ~$650M–$700M peak revenue) | Mobile spatial capture app offering fast on-device 3D Gaussian Splatting, LiDAR scanning, and cloud rendering for geospatial world mapping. | Paid cloud plans start at **$20/month** (Plus, or $200/yr) up to $50/mo (Pro) | **Free forever** for unlimited on-device captures, Gaussian splat processing, and mesh exports (SPZ, FBX, PLY); includes 20,000 free monthly cloud credits. |
@@ -55,146 +80,168 @@ The global 3D reconstruction and computer vision spatial mapping sector is value
 | **[Agisoft Metashape Cloud](https://agisoft.com)** | **$3M–$4M Annual Revenue** (Privately held / bootstrapped) | Cloud photogrammetric processing pipeline and storage backend for Metashape Professional producing dense point clouds and georeferenced DEMs. | Commercial storage starts at **$10/month** for 100 GB (plus pay-per-use processing at $4.25/compute hour) | **Free plan** providing 50 GB cloud storage and 20 compute hours per month renewed monthly (available for trial, Metashape Pro trial, and educational users). |
 | **[KIRI Engine](https://kiriengine.app)** | **Bootstrap / Seed Stage** (<$3M estimated revenue) | Cloud 3D scanning and Gaussian Splatting app offering photo-to-3D reconstruction, featureless object scanning, quad-retopology, and Blender integration. | Pro subscription starts at **$79.99/year** (~$6.66/month equivalent) or $17.99 month-to-month | **Free forever** plan with unlimited free exports (OBJ, FBX, STL, GLB/GLTF, USDZ) and unlimited LiDAR scans, capped at 150 photos (2 GB) per photogrammetry scan. |
 
+---
 
+## 🚀 Top Open-Source GitHub Projects (Ranked by Stars)
 
+*Every repository includes a live GitHub star badge (with `style=social` and `color=white`) linking directly to its GitHub stargazers page. Sorted strictly by star count in descending order.*
 
+1. **[graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting)** [![GitHub Stars](https://img.shields.io/github/stars/graphdeco-inria/gaussian-splatting?style=social&color=white)](https://github.com/graphdeco-inria/gaussian-splatting/stargazers)  
+   *Reference SIGGRAPH 2023 CUDA implementation for real-time 3D scene reconstruction and radiance field rendering using 3D Gaussian Splatting.*  
+   `License: Custom Research / Inria` • `Domain: 3DGS, Radiance Fields`
 
-## Open-Source GitHub Projects
+2. **[NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp)** [![GitHub Stars](https://img.shields.io/github/stars/NVlabs/instant-ngp?style=social&color=white)](https://github.com/NVlabs/instant-ngp/stargazers)  
+   *NVIDIA's breakthrough multiresolution hash-encoding framework for instant neural radiance fields (NeRF), gigapixel images, and signed distance functions (SDF).*  
+   `License: Custom NVIDIA Research` • `Domain: NeRF, Instant Training`
 
+3. **[facebookresearch/vggt](https://github.com/facebookresearch/vggt)** [![GitHub Stars](https://img.shields.io/github/stars/facebookresearch/vggt?style=social&color=white)](https://github.com/facebookresearch/vggt/stargazers)  
+   *CVPR 2025 Best Paper. Meta AI's Visual Geometry Grounded Transformer directly inferring camera poses, depth maps, dense pointmaps, and 3D point tracks from 1 to 100+ uncalibrated views in seconds.*  
+   `License: CC-BY-NC 4.0` • `Domain: Foundation Geometry Transformer`
 
+4. **[isl-org/Open3D](https://github.com/isl-org/Open3D)** [![GitHub Stars](https://img.shields.io/github/stars/isl-org/Open3D?style=social&color=white)](https://github.com/isl-org/Open3D/stargazers)  
+   *Comprehensive open-source C++ and Python library for 3D data processing, RGB-D odometry, TSDF volumetric integration, point cloud registration, and Poisson surface reconstruction.*  
+   `License: MIT` • `Domain: 3D Point Cloud & Mesh Library`
+
+5. **[colmap/colmap](https://github.com/colmap/colmap)** [![GitHub Stars](https://img.shields.io/github/stars/colmap/colmap?style=social&color=white)](https://github.com/colmap/colmap/stargazers)  
+   *Industry-standard general-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline powering camera registration across photogrammetry and NeRF/3DGS research.*  
+   `License: BSD-3-Clause` • `Domain: SfM / MVS Reconstruction`
+
+6. **[alicevision/meshroom](https://github.com/alicevision/meshroom)** [![GitHub Stars](https://img.shields.io/github/stars/alicevision/meshroom)](https://github.com/alicevision/meshroom/stargazers) [![GitHub Stars](https://img.shields.io/github/stars/alicevision/meshroom?style=social&color=white)](https://github.com/alicevision/meshroom/stargazers)  
+   *Full-featured node-based visual photogrammetry workbench built on the AliceVision computer vision framework for end-to-end photo-to-textured-mesh reconstruction.*  
+   `License: MPL-2.0` • `Domain: Node-based Photogrammetry`
+
+7. **[nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio)** [![GitHub Stars](https://img.shields.io/github/stars/nerfstudio-project/nerfstudio?style=social&color=white)](https://github.com/nerfstudio-project/nerfstudio/stargazers)  
+   *Modular, production-ready PyTorch framework unifying 3D Gaussian Splatting (`splatfacto`), NeRFs (`nerfacto`), COLMAP integration, and an interactive real-time web visualizer.*  
+   `License: Apache-2.0` • `Domain: NeRF & 3DGS Framework`
+
+8. **[DepthAnything/Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2)** [![GitHub Stars](https://img.shields.io/github/stars/DepthAnything/Depth-Anything-V2?style=social&color=white)](https://github.com/DepthAnything/Depth-Anything-V2/stargazers)  
+   *State-of-the-art monocular depth estimation foundation model producing ultra-detailed, metric-aligned depth maps for monocular 3D scene lifting and video reconstruction.*  
+   `License: Apache-2.0` • `Domain: Monocular Depth Foundation`
+
+9. **[naver/dust3r](https://github.com/naver/dust3r)** [![GitHub Stars](https://img.shields.io/github/stars/naver/dust3r?style=social&color=white)](https://github.com/naver/dust3r/stargazers)  
+   *Geometric 3D vision breakthrough from NAVER Labs Europe reconstructing metric 3D pointmaps and pixel correspondences from uncalibrated image pairs without camera intrinsics or prior SfM.*  
+   `License: CC-BY-NC-SA 4.0` • `Domain: Feed-Forward Dense 3D Pointmaps`
+
+10. **[OpenDroneMap/ODM](https://github.com/OpenDroneMap/ODM)** [![GitHub Stars](https://img.shields.io/github/stars/OpenDroneMap/ODM?style=social&color=white)](https://github.com/OpenDroneMap/ODM/stargazers)  
+    *Production-grade drone and aerial mapping engine generating georeferenced orthophotos, digital surface models (DSM/DEM), dense point clouds, and 3D textured meshes via CLI and WebODM.*  
+    `License: AGPL-3.0` • `Domain: Aerial & Drone Photogrammetry`
+
+11. **[openMVG/openMVG](https://github.com/openMVG/openMVG)** [![GitHub Stars](https://img.shields.io/github/stars/openMVG/openMVG?style=social&color=white)](https://github.com/openMVG/openMVG/stargazers)  
+    *Modular C++ computer vision library specializing in robust multiple view geometry, epipolar geometry solvers, and global/incremental Structure-from-Motion.*  
+    `License: MPL-2.0` • `Domain: Multiple View Geometry / SfM`
 
-- **[apekshik/anyscene](https://github.com)**  
+12. **[cnr-isti-vclab/meshlab](https://github.com/cnr-isti-vclab/meshlab)** [![GitHub Stars](https://img.shields.io/github/stars/cnr-isti-vclab/meshlab?style=social&color=white)](https://github.com/cnr-isti-vclab/meshlab/stargazers)  
+    *Widely deployed open-source system for processing, cleaning, filtering, remeshing, inspecting, rendering, and converting large unstructured 3D triangular meshes and point clouds.*  
+    `License: GPL-3.0` • `Domain: Mesh Processing & Filtering`
 
-  Open-source (`MIT`) feed-forward monocular 3D scene reconstruction pipeline combining `Depth Anything V2` with `MASt3R` dense camera/geometry matching to reconstruct colored point clouds (`PLY`, `GLB`) from arbitrary images or videos with optional `COLMAP` export.
+13. **[nerfstudio-project/gsplat](https://github.com/nerfstudio-project/gsplat)** [![GitHub Stars](https://img.shields.io/github/stars/nerfstudio-project/gsplat?style=social&color=white)](https://github.com/nerfstudio-project/gsplat/stargazers)  
+    *High-performance CUDA/C++ library with PyTorch bindings for real-time 3D Gaussian Splatting rasterization, featuring fast forward/backward passes and memory-efficient training.*  
+    `License: Apache-2.0` • `Domain: 3DGS Rasterization Core`
 
+14. **[apple/ml-depth-pro](https://github.com/apple/ml-depth-pro)** [![GitHub Stars](https://img.shields.io/github/stars/apple/ml-depth-pro?style=social&color=white)](https://github.com/apple/ml-depth-pro/stargazers)  
+    *Apple's zero-shot metric monocular depth estimation foundation model generating high-resolution depth maps and focal lengths from single arbitrary images in under 1 second.*  
+    `License: Apple Sample Code / Non-Commercial` • `Domain: Zero-shot Metric Depth`
 
+15. **[CloudCompare/CloudCompare](https://github.com/CloudCompare/CloudCompare)** [![GitHub Stars](https://img.shields.io/github/stars/CloudCompare/CloudCompare?style=social&color=white)](https://github.com/CloudCompare/CloudCompare/stargazers)  
+    *Industry-standard 3D point cloud processing software featuring advanced ICP alignment, cloud-to-cloud/cloud-to-mesh geometric comparison, registration, and segmentation.*  
+    `License: GPL-2.0` • `Domain: Point Cloud Registration & Inspection`
 
-- **[COLMAP](https://github.com)**  
+16. **[cdcseacave/openMVS](https://github.com/cdcseacave/openMVS)** [![GitHub Stars](https://img.shields.io/github/stars/cdcseacave/openMVS?style=social&color=white)](https://github.com/cdcseacave/openMVS/stargazers)  
+    *Complete Multi-View Stereo library taking calibrated camera poses (from COLMAP/OpenMVG) and executing dense point-cloud generation, mesh reconstruction, mesh refinement, and texture baking.*  
+    `License: AGPL-3.0` • `Domain: Dense MVS & Texture Mesh`
 
-  Industry-standard open-source (`BSD-3-Clause`) general-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline with both graphical and headless CLI interfaces.
+17. **[introlab/rtabmap](https://github.com/introlab/rtabmap)** [![GitHub Stars](https://img.shields.io/github/stars/introlab/rtabmap?style=social&color=white)](https://github.com/introlab/rtabmap/stargazers)  
+    *Real-Time Appearance-Based 3D Mapping RGB-D, Stereo and LiDAR Graph-Based SLAM engine with memory management for large-scale long-term online 3D spatial mapping.*  
+    `License: BSD-3-Clause` • `Domain: RGB-D / LiDAR SLAM`
 
+18. **[hbb1/2d-gaussian-splatting](https://github.com/hbb1/2d-gaussian-splatting)** [![GitHub Stars](https://img.shields.io/github/stars/hbb1/2d-gaussian-splatting?style=social&color=white)](https://github.com/hbb1/2d-gaussian-splatting/stargazers)  
+    *SIGGRAPH 2024 surface reconstruction method utilizing 2D planar Gaussian disks to deliver accurate, watertight geometric surface extraction and high-fidelity rendering.*  
+    `License: MIT` • `Domain: 2D Gaussian Surface Reconstruction`
 
+19. **[naver/mast3r](https://github.com/naver/mast3r)** [![GitHub Stars](https://img.shields.io/github/stars/naver/mast3r?style=social&color=white)](https://github.com/naver/mast3r/stargazers)  
+    *Matching and Stereo 3D Reconstruction model building upon DUSt3R to produce dense local feature tracks, robust pairwise matching, and fast metric camera pose estimation.*  
+    `License: CC-BY-NC-SA 4.0` • `Domain: Dense Feature Matching & Geometry`
 
-- **[GLOMAP](https://github.com)**  
+20. **[colmap/glomap](https://github.com/colmap/glomap)** [![GitHub Stars](https://img.shields.io/github/stars/colmap/glomap?style=social&color=white)](https://github.com/colmap/glomap/stargazers)  
+    *ECCV 2024 global Structure-from-Motion mapper integrated with COLMAP that solves camera positions and orientations simultaneously, running orders of magnitude faster than incremental SfM.*  
+    `License: BSD-3-Clause` • `Domain: Global Structure-from-Motion`
 
-  ECCV 2024 open-source (`BSD-3-Clause`) global Structure-from-Motion mapper tightly integrated with COLMAP that recovers camera poses orders of magnitude faster than incremental SfM.
+21. **[spla-tam/SplaTAM](https://github.com/spla-tam/SplaTAM)** [![GitHub Stars](https://img.shields.io/github/stars/spla-tam/SplaTAM?style=social&color=white)](https://github.com/spla-tam/SplaTAM/stargazers)  
+    *CVPR 2024 dense RGB-D SLAM system employing 3D Gaussian Splatting as the sole scene representation for high-fidelity real-time camera tracking and volumetric radiance mapping.*  
+    `License: MIT` • `Domain: Gaussian Splatting SLAM`
 
+22. **[muskie82/MonoGS](https://github.com/muskie82/MonoGS)** [![GitHub Stars](https://img.shields.io/github/stars/muskie82/MonoGS?style=social&color=white)](https://github.com/muskie82/MonoGS/stargazers)  
+    *3D Gaussian Splatting SLAM from a single monocular camera feed, achieving real-time scene representation, pose tracking, and progressive reconstruction.*  
+    `License: MIT` • `Domain: Monocular 3DGS SLAM`
 
+23. **[Totoro97/NeuS](https://github.com/Totoro97/NeuS)** [![GitHub Stars](https://img.shields.io/github/stars/Totoro97/NeuS?style=social&color=white)](https://github.com/Totoro97/NeuS/stargazers)  
+    *Seminal NeurIPS paper for Neural Implicit Surface Reconstruction using Signed Distance Functions (SDF) with volume rendering, extracting high-quality smooth geometric meshes.*  
+    `License: MIT` • `Domain: Neural Implicit Surface Reconstruction`
 
-- **[AliceVision Meshroom](https://github.com)**  
+24. **[apekshik/anyscene](https://github.com/apekshik/anyscene)** [![GitHub Stars](https://img.shields.io/github/stars/apekshik/anyscene?style=social&color=white)](https://github.com/apekshik/anyscene/stargazers)  
+    *Feed-forward monocular 3D scene reconstruction pipeline combining Depth Anything V2 with MASt3R dense camera matching to reconstruct colored point clouds (PLY, GLB) from arbitrary images or video.*  
+    `License: MIT` • `Domain: Monocular Feed-Forward 3D Pipeline`
 
-  Full-featured open-source (`MPL-2.0`) node-based photogrammetry software built on the AliceVision computer vision framework for end-to-end photo-to-textured-mesh reconstruction.
+---
 
+## 🛠️ Recommended System Architecture Pipeline
 
+For practitioners designing custom computer vision & 3D reconstruction systems, here are the most effective open-source combinations:
 
-- **[OpenMVG (Open Multiple View Geometry)](https://github.com)**  
+```
+[Uncalibrated Photos / Drone Video / Monocular Stream]
+                         │
+                         ▼
+        ┌──────────────────────────────────┐
+        │  Camera Pose & Geometry Matching │
+        ├──────────────────────────────────┤
+        │  • Fast Global: GLOMAP / COLMAP  │
+        │  • Feed-Forward: VGGT / MASt3R   │
+        └─────────────────┬────────────────┘
+                          │
+         ┌────────────────┴────────────────┐
+         ▼                                 ▼
+┌─────────────────────────┐     ┌─────────────────────────┐
+│ Dense Surface Meshes    │     │ Radiance Fields & 3DGS  │
+├─────────────────────────┤     ├─────────────────────────┤
+│ • Dense MVS: OpenMVS    │     │ • Engine: Nerfstudio    │
+│ • Mesh Clean: MeshLab   │     │ • Rasterizer: gsplat    │
+│ • Inspection: Open3D    │     │ • Viewer: WebGL / Three │
+└─────────────────────────┘     └─────────────────────────┘
+```
 
-  Modular open-source (`MPL-2.0`) C++ computer vision library for feature extraction, robust epipolar geometry, global/incremental SfM, and camera calibration.
+---
 
+## 🤝 How to Contribute
 
+Contributions to this ecosystem are warmly welcomed! To suggest a new project, library, or platform:
 
-- **[OpenMVS (Open Multi-View Stereo)](https://github.com)**  
+1. 🍴 **Fork** this repository.
+2. 🌿 Create a feature branch: `git checkout -b feature/add-new-tool`.
+3. ✏️ Edit `README.md` following the established table / ranked list formats.
+4. 🔗 Include: tool name, official link, 1–2 sentence description, license, and pricing/scale details.
+5. 🚀 Submit a **Pull Request** with a concise description of your additions.
 
-  Open-source (`AGPL-3.0`) multi-view stereo reconstruction library that takes SfM camera poses and produces dense point clouds, watertight surface meshes, and high-res textures.
+---
 
+## 💖 Support & Community
 
+If this repository has helped your research, commercial projects, or learning journey in 3D computer vision, please consider showing your support:
 
-- **[VGGT (Visual Geometry Grounded Transformer)](https://github.com)**  
+- ⭐ **Star this repository** to help others discover it on GitHub.
+- 🍴 **Fork and share** it with colleagues, labs, and spatial computing communities.
+- 💬 **Join our community** on [Discord](https://discord.gg/jc4xtF58Ve) to discuss cutting-edge 3D reconstruction, NeRFs, 3DGS, and visual geometry.
+- ☕ **Support the maintainer**: Buy a coffee and support open-source maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
 
-  CVPR 2025 Best Paper open-source (`MIT`) feed-forward Transformer from Meta AI that directly infers camera parameters, depth maps, point maps, and 3D tracks from one to hundreds of views in seconds.
+---
 
+## ⭐ Star History
 
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-3D-Scene-Reconstruction-Computer-Vision&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-3D-Scene-Reconstruction-Computer-Vision&type=date&legend=top-left)
 
-- **[DUSt3R & MASt3R (`naver/dust3r`)](https://github.com)**  
+---
 
-  Open-source dense 3D reconstruction frameworks from NAVER Labs Europe capable of recovering calibrated 3D pointmaps and pixel-level correspondences from uncalibrated image pairs without prior intrinsics.
+## ⚠️ Disclaimer
 
-
-
-- **[Nerfstudio](https://github.com)**  
-
-  Modular open-source (`Apache-2.0`) PyTorch framework unifying 3D Gaussian Splatting (`splatfacto`), NeRFs (`nerfacto`), COLMAP/GLOMAP pose estimation, and a real-time web viewer.
-
-
-
-- **[OpenDroneMap (ODM & WebODM)](https://github.com)**  
-
-  Production-grade open-source (`AGPL-3.0`) aerial and terrestrial photogrammetry toolkit generating georeferenced 3D textured meshes, point clouds, and orthophotos via CLI or web UI.
-
-
-
-- **[RTAB-Map](https://github.com)**  
-
-  Cross-platform open-source (`BSD-3-Clause`) RGB-D, Stereo, and LiDAR graph-based SLAM system for real-time 3D indoor/outdoor scene mapping and loop closure.
-
-
-
-- **[Gaussian Splatting (`graphdeco-inria/gaussian-splatting`)](https://github.com)**  
-
-  Reference SIGGRAPH 2023 open-source CUDA implementation for real-time photorealistic 3D scene reconstruction and radiance field rendering from calibrated photographs.
-
-
-
-- **[2D Gaussian Splatting (`hbb1/2d-gaussian-splatting`)](https://github.com)**  
-
-  SIGGRAPH 2024 open-source (`MIT`) surface reconstruction method using 2D oriented planar disks to extract clean, geometrically accurate triangle meshes from radiance fields.
-
-
-
-- **[Instant-NGP (`NVlabs/instant-ngp`)](https://github.com)**  
-
-  NVIDIA open-source multiresolution hash-encoding framework for ultra-fast neural radiance field (`NeRF`) and signed distance function (`SDF`) 3D scene reconstruction.
-
-
-
-- **[Open3D (`isl-org/Open3D`)](https://github.com)**  
-
-  Modern open-source (`MIT`) C++ and Python library providing RGB-D odometry, TSDF volumetric integration, multi-way registration, and Poisson/Ball-Pivoting mesh reconstruction.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[Depth Anything V2](https://github.com)** and **[Depth Pro (Apple)](https://github.com)** for sharp, metric monocular depth estimation used in single-image and video 3D scene lifting.
-
-- **[Map-Anything (`facebookresearch/map-anything`)](https://github.com)** and **[SpaTracker / VGGT-SLAM](https://github.com)** for universal feed-forward metric 3D reconstruction across diverse camera geometries.
-
-- **[MonoGS (`muskie82/MonoGS`)](https://github.com)** and **[SplaTAM (`spla-tam/SplaTAM`)](https://github.com)** for real-time 3D Gaussian Splatting monocular and RGB-D SLAM scene reconstruction.
-
-- **[NeuS2 (`19reborn/NeuS2`)](https://github.com)** and **[BakedSDF](https://github.com)** for fast neural implicit surface reconstruction and real-time mesh extraction.
-
-- **[CloudCompare](https://github.com)** and **[MeshLab](https://github.com)** for post-reconstruction point-cloud alignment, cleanup, decimation, and texture baking.
-
-
-
-**Frameworks for building custom systems**: Combine **GLOMAP / COLMAP** or **VGGT / MASt3R** (for camera pose & pointmap estimation) with **OpenMVS** (for textured meshes) or **Nerfstudio (`gsplat`)** (for photorealistic 3DGS) and **Open3D / CloudCompare** for end-to-end open-source 3D scene reconstruction pipelines.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Photogrammetry (`COLMAP`, `Meshroom`, `OpenMVS`) and neural reconstruction (`Nerfstudio`, `VGGT`, `MASt3R`) pipelines benefit substantially from NVIDIA CUDA GPUs, sufficient RAM/VRAM, and sharp, well-overlapping input imagery.
+- This curated list is maintained by the community for informational and research purposes. Inclusion does not imply official commercial endorsement.
+- Neural 3D reconstruction frameworks (`Nerfstudio`, `3DGS`, `VGGT`, `Instant-NGP`) and photogrammetry packages (`COLMAP`, `OpenMVS`) require substantial GPU VRAM (NVIDIA CUDA recommended) and high-quality, overlapping multi-view input imagery for optimal metric fidelity.
